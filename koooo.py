@@ -1,0 +1,6 @@
+name	=	input	("what is your name\n")
+print("hello "	+	name)
+input("do you need login\n")
+input("ok login\n")
+input("password\n")
+input("مبروك عليك يا علق إتهكرت بنجاج وشوفت فضايحك\n")
